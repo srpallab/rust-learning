@@ -1,1 +1,31 @@
 #+TITLE: Rust Learning
+
+* Rust (Easy)
+    - [x] 1. Installing Rust
+    - [x] 2. IDE Setup
+    - [x] 3. Initialing a project locally
+    - [x] 4. Variables (Number, String, Boolean)
+    - [x] 5. Conditionals and Loops
+    - [x] 6. Functions
+    - [] 7. Structs
+    - [] 8. Enums
+    - [] 9. Optional/Result
+    - [] 10. Pattern Matching
+    - [] 11. Package Management
+
+* Rust (Hard)
+    - [] 1. Memory Management
+    - [] 2. Mutability
+    - [] 3. Stack vs Heap
+    - [] 4. Ownership
+    - [] 5. Borrowing
+    - [] 6. References
+
+* Rust (Important)
+    - [] 1. Traits
+    - [] 2. Generics
+    - [] 3. Lifetimes
+    - [] 4. Multithreading
+    - [] 5. Macros
+    - [] 6. Futures (async/await)
+    
